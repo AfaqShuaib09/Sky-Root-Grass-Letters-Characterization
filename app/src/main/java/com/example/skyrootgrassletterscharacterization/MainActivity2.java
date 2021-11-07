@@ -8,6 +8,7 @@ import android.widget.Button;
 
 public class MainActivity2 extends AppCompatActivity {
 
+    Button btnGetAlpha, btnSky, btnGrass, btnRoot;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
