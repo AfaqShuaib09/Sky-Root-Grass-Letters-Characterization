@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sky Root Grass Letters Characterization</string>
+    <string name="info_heading">Information</string>
+    <string name="name_heading">Name</string>
+    <string name="name_val">Muhammad Afaq Shuaib</string>
+    <string name="roll_no_heading">Roll Number</string>
+    <string name="roll_no_val">BCSF18M004</string>
+    <string name="preview_imgStr">Commits Image Preview</string>
+    <string name="githubBtn_text">Go to Github Repo</string>
+    <string name="launch_app">Launch App</string>
+    <string name="tag_line">Sky, Root &amp; Grass Letters</string>
+    <string name="app">Alpha Categorization</string>
+</resources>
